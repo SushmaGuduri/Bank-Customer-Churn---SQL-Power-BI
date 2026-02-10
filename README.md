@@ -11,7 +11,10 @@ The objective was to move beyond demographics and identify **behavior-driven chu
 Churn is **not random**. It clusters strongly around **customer inactivity**.
 
 Inactive customers show a churn rate of **~36%**, compared to **~18%** for active customers.  
-This 2× difference remains consistent across age, balance, tenure, and geography, making **activity status the strongest churn driver**.
+
+ **Germany** has high churn rate but we can see that **France** and ** Germany** are having similar churn rate but if we see france has twice the customer base. so churn risk is much lower.
+ 
+This difference remains consistent across age, balance, tenure, and geography, making **activity status the strongest churn driver**.
 
 Customers aged **51–65 initially show high churn (~53%)**, but deeper analysis reveals age is not the root cause.  
 Within this group, **inactive customers churn at ~87%**, while **active customers churn at ~31%**, proving disengagement drives churn—not age.
