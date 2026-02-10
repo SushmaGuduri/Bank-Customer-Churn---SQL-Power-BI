@@ -44,7 +44,6 @@ They churn because they stop engaging.**
 - **SQL** – Data cleaning, segmentation, multi-factor churn analysis  
 - **Power BI** – Interactive dashboards and churn visualization
 
----
 
-## Repository Structure
+
 
